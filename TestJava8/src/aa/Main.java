@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("ok="+c);
 		System.out.println("bugbranch1="+c);
 		System.out.println("bugbranch2="+c);
+		System.out.println("bugbranch3="+c);
 	}
 
 }
