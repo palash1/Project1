@@ -10,6 +10,7 @@ public class Main {
 		 float c= ++a*b/a;
 		 System.out.println("Result="+c);
 		System.out.println("ok="+c);
+		System.out.println("bugbranch1="+c);
 	}
 
 }
