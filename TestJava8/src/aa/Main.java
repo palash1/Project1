@@ -8,7 +8,7 @@ public class Main {
 		  int b=8;
 		  
 		 float c= ++a*b/a;
-		 System.out.println(c);
+		 System.out.println("Result="+c);
 	}
 
 }
